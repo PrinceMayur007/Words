@@ -31,3 +31,9 @@ Learn more about how to implement RecyclerView: https://developer.android.com/gu
 
 Learn more from MaterialDesign.io
 https://material.io/components/app-bars-top
+
+## How to install apk:
+
+You can find app-debug.apk file in app->builds->outputs->debug. Download and install it on you smartphone.
+
+(Included appbar icons will only be visible on API level 21 or later, and Adapive icon will be available from API level 26 or later.)
