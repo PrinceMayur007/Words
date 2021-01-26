@@ -12,3 +12,22 @@ The app demonstrates the use of Intents in two ways:
 
 Also demonstrates creation of simple appbar menu.
 
+## Intents
+
+An intent is an object representing some action to be performed. The most common, but certainly not only, use for an intent is to launch an activity. 
+There are two types of intents — implicit and explicit.
+
+Generally, when showing an activity in your own app, you use an explicit intent.
+
+An implicit intent is a bit more abstract, where you tell the system the type of action, such as opening a link, composing an email, or making a phone call, and the system is responsible for figuring out how to fulfill the request. You've probably seen both kinds of intents in action without knowing it.
+
+For actions that don't necessarily involve the current app—say, you found an interesting Android documentation page and want to share it with friends—you'd use an implicit intent.
+
+## RecyclerView
+
+Learn more about how to implement RecyclerView: https://developer.android.com/guide/topics/ui/layout/recyclerview
+
+## Appbars
+
+Learn more from MaterialDesign.io
+https://material.io/components/app-bars-top
